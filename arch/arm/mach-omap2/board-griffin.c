@@ -127,7 +127,7 @@ extern struct omap_board_mux *sec_board_wk_mux_ptr;
 //     },
 // };
 
-#ifdef CONFIG_USB_ANDROID
+#ifdef CONFIG_USB_GADGET
     #define GOOGLE_VENDOR_ID		0x22A4
     #define GOOGLE_PRODUCT_ID		0x1052
     #define GOOGLE_ADB_PRODUCT_ID		0x1052
@@ -235,7 +235,7 @@ static int plat_kim_resume(struct platform_device *pdev)
 
 /* wl127x BT, FM, GPS connectivity chip */
 struct ti_st_plat_data wilink_pdata = {
-	.nshutdown_gpio = 186,
+	.nshutdown_gpio = 156,
 	.dev_name = WILINK_UART_DEV_NAME,
 	.flow_cntrl = 1,
 	.baud_rate = 3686400,
@@ -318,6 +318,8 @@ static void __init griffin_reserve(void){
 	omap_reserve();
 }
 #ifdef CONFIG_ANDROID_RAM_CONSOLE
+#define RAM_CONSOLE_START   0x8FFE0000
+#define RAM_CONSOLE_SIZE    0x20000
 static inline void omap2_ramconsole_reserve_sdram(void)
 {
     reserve_bootmem(RAM_CONSOLE_START,RAM_CONSOLE_SIZE, 0);
@@ -327,8 +329,8 @@ static inline void omap2_ramconsole_reserve_sdram(void) {}
 #endif /* CONFIG_ANDROID_RAM_CONSOLE */
 
 static void __init griffin_map_io(void){
-     printk(KERN_INFO "ram console reserve sdram\n");
-     omap2_ramconsole_reserve_sdram();
+     //printk(KERN_INFO "ram console reserve sdram\n");
+     //omap2_ramconsole_reserve_sdram();
      omap3_map_io();
 }
 static void __init griffin_init_irq(void){
@@ -406,14 +408,15 @@ static void __init board_griffin_init(void){
     usbhs_init(&usbhs_bdata);
     omap_board_config = griffin_config;
     omap_board_config_size = ARRAY_SIZE(griffin_config);
-    griffin_wifi_init();
+    
     griffin_peripherals_init();
+    griffin_wifi_init();
     griffin_android_gadget_init();
     griffin_display_init();
 //    griffin_vout_init();
 //    griffin_sgx_init();
     omap_register_ion();
-    platform_add_devices(griffin_devices, ARRAY_SIZE(griffin_devices))
+    platform_add_devices(griffin_devices, ARRAY_SIZE(griffin_devices));
     
     wl127x_vio_leakage_fix();
     
