@@ -1,0 +1,104 @@
+00000000-00000000 : omap2-nand.0
+30000000-30000fff : omap2-nand
+4806a000-4806bfff : omap-hsuart.0
+  4806a000-4806bfff : omap-hsuart
+4806c000-4806c3ff : omap-hsuart.1
+  4806c000-4806c3ff : omap-hsuart
+48070000-4807007f : i2c_omap.1
+  48070000-4807007f : i2c_omap
+48072000-4807207f : i2c_omap.2
+  48072000-4807207f : i2c_omap
+48086000-480863ff : dmtimer.9
+48088000-480883ff : dmtimer.10
+48094000-4809411f : omap2-mailbox
+48098000-480980ff : omap2_mcspi.1
+  48098000-480980ff : omap2_mcspi.1
+4809a000-4809a0ff : omap2_mcspi.2
+  4809a000-4809a0ff : omap2_mcspi.2
+4809c000-4809c1ff : mmci-omap-hs.0
+  4809c000-4809c1ff : mmci-omap-hs
+480ab000-480acfff : musb_hdrc
+480ad000-480ad1ff : mmci-omap-hs.2
+  480ad000-480ad1ff : mmci-omap-hs
+480b4000-480b41ff : mmci-omap-hs.1
+  480b4000-480b41ff : mmci-omap-hs
+480b8000-480b80ff : omap2_mcspi.3
+  480b8000-480b80ff : omap2_mcspi.3
+480ba000-480ba0ff : omap2_mcspi.4
+  480ba000-480ba0ff : omap2_mcspi.4
+480bc000-480bc06f : omap3isp
+  480bc000-480bc06f : omap3isp
+480bc100-480bc177 : omap3isp
+  480bc100-480bc177 : omap3isp
+480bc400-480bc5ef : omap3isp
+  480bc400-480bc5ef : omap3isp
+480bc600-480bc6a7 : omap3isp
+  480bc600-480bc6a7 : omap3isp
+480bca00-480bca47 : omap3isp
+  480bca00-480bca47 : omap3isp
+480bcc00-480bcc5f : omap3isp
+  480bcc00-480bcc5f : omap3isp
+480bce00-480bce9f : omap3isp
+  480bce00-480bce9f : omap3isp
+480bd000-480bd0ab : omap3isp
+  480bd000-480bd0ab : omap3isp
+480bd200-480bd2fb : omap3isp
+  480bd200-480bd2fb : omap3isp
+480bd400-480bd4ff : omap-iovmm.0
+  480bd400-480bd4ff : omap-iommu.0
+    480bd400-480bd4ff : omap-iommu.0
+480bd800-480bd96f : omap3isp
+  480bd800-480bd96f : omap3isp
+480bd970-480bd977 : omap3isp
+  480bd970-480bd977 : omap3isp
+480bdd70-480bdd77 : omap3isp
+  480bdd70-480bdd77 : omap3isp
+48304000-483043ff : dmtimer.11
+48310000-48310fff : omap-gpio.0
+48314000-4831404f : omap_wdt
+  48314000-4831404f : omap_wdt
+48318000-483183ff : dmtimer.0
+49020000-490203ff : omap-hsuart.2
+  49020000-490203ff : omap-hsuart
+49032000-490323ff : dmtimer.1
+49034000-490343ff : dmtimer.2
+49036000-490363ff : dmtimer.3
+49038000-490383ff : dmtimer.4
+4903a000-4903a3ff : dmtimer.5
+4903c000-4903c3ff : dmtimer.6
+4903e000-4903e3ff : dmtimer.7
+49040000-490403ff : dmtimer.8
+49050000-49050fff : omap-gpio.1
+49052000-49052fff : omap-gpio.2
+49054000-49054fff : omap-gpio.3
+49056000-49056fff : omap-gpio.4
+49058000-49058fff : omap-gpio.5
+70000000-70ffffff : vrfb
+71000000-71ffffff : vrfb
+72000000-72ffffff : vrfb
+73000000-73ffffff : vrfb
+74000000-74ffffff : vrfb
+75000000-75ffffff : vrfb
+76000000-76ffffff : vrfb
+77000000-77ffffff : vrfb
+78000000-78ffffff : vrfb
+79000000-79ffffff : vrfb
+7a000000-7affffff : vrfb
+7b000000-7bffffff : vrfb
+7c000000-7cffffff : vrfb
+7d000000-7dffffff : vrfb
+7e000000-7effffff : vrfb
+7f000000-7fffffff : vrfb
+80000000-8fffffff : System RAM
+  80037000-8050ffff : Kernel text
+  8056a000-8065c5ef : Kernel data
+  8ffe0000-8fffffff : ram_console.0
+90000000-9fffffff : System RAM
+e0000000-e0ffffff : vrfb
+e1000000-e1ffffff : vrfb
+e2000000-e2ffffff : vrfb
+e3000000-e3ffffff : vrfb
+e4000000-e4ffffff : vrfb
+e5000000-e5ffffff : vrfb
+e6000000-e6ffffff : vrfb
+e7000000-e7ffffff : vrfb

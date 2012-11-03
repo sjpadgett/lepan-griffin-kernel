@@ -1,0 +1,294 @@
+Lepan Power Regulators from device
+*******************************************************************************************
+regulator/regulator.0/2-002f-i2c2_2v8: invalid length
+regulator/regulator.0/device: invalid length
+regulator/regulator.0/ecompass_pm-ecompass: invalid length
+regulator/regulator.0/gsensor_pm-gsensor: invalid length
+regulator/regulator.0/light_pm-light: invalid length
+3300000
+GS_3V3
+6
+regulator/regulator.0/power: invalid length
+enabled
+regulator/regulator.0/subsystem: invalid length
+regulator/regulator.0/tk_pm-tk: invalid length
+regulator/regulator.0/touch_pm-touch: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.1/device: invalid length
+3300000
+regulator/regulator.1/mmci-omap-hs.1-vmmc: invalid length
+eMMC_PWR
+1
+regulator/regulator.1/power: invalid length
+enabled
+regulator/regulator.1/subsystem: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.10/device: invalid length
+3000000
+3000000
+3000000
+VSIM
+0
+regulator/regulator.10/power: invalid length
+regulator/regulator.10/soc-audio-vsim: invalid length
+disabled
+off
+regulator/regulator.10/subsystem: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.11/device: invalid length
+3000000
+3000000
+3000000
+VAUX1
+0
+regulator/regulator.11/power: invalid length
+disabled
+off
+regulator/regulator.11/subsystem: invalid length
+regulator/regulator.11/vibrator-VIB: invalid length
+voltage
+*******************************************************************************************
+
+regulator/regulator.12/device: invalid length
+1800000
+1800000
+1800000
+VAUX3
+0
+regulator/regulator.12/omap3isp-aux3_cam_1v8: invalid length
+regulator/regulator.12/power: invalid length
+disabled
+off
+regulator/regulator.12/subsystem: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.13/device: invalid length
+1800000
+1800000
+1800000
+VAUX4
+0
+regulator/regulator.13/omap3isp-aux4_cam_1v8: invalid length
+regulator/regulator.13/power: invalid length
+disabled
+off
+regulator/regulator.13/subsystem: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.2/device: invalid length
+1500000
+VUSB1V5
+2
+regulator/regulator.2/power: invalid length
+enabled
+normal
+regulator/regulator.2/subsystem: invalid length
+regulator/regulator.2/twl4030_usb-usb1v5: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.3/device: invalid length
+1800000
+VUSB1V8
+2
+regulator/regulator.3/power: invalid length
+enabled
+normal
+regulator/regulator.3/subsystem: invalid length
+regulator/regulator.3/twl4030_usb-usb1v8: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.4/device: invalid length
+3100000
+VUSB3V1
+2
+regulator/regulator.4/power: invalid length
+enabled
+normal
+regulator/regulator.4/subsystem: invalid length
+regulator/regulator.4/twl4030_usb-usb3v1: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.5/device: invalid length
+3150000
+3150000
+1850000
+regulator/regulator.5/mmci-omap-hs.0-vmmc: invalid length
+VMMC1
+1
+regulator/regulator.5/power: invalid length
+enabled
+normal
+regulator/regulator.5/subsystem: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.6/2-002f-i2c2_1v8: invalid length
+regulator/regulator.6/device: invalid length
+regulator/regulator.6/ecompass_pm-vio_ecompass: invalid length
+regulator/regulator.6/gsensor_pm-vio_gsensor: invalid length
+regulator/regulator.6/light_pm-vio_light: invalid length
+1800000
+1800000
+1800000
+VDAC
+6
+regulator/regulator.6/omap3isp-vio_ov_module: invalid length
+regulator/regulator.6/power: invalid length
+enabled
+normal
+regulator/regulator.6/subsystem: invalid length
+regulator/regulator.6/tk_pm-vio_tk: invalid length
+regulator/regulator.6/touch_pm-vio_touch: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.7/device: invalid length
+regulator/regulator.7/gps_io-gps: invalid length
+1800000
+1800000
+1800000
+VAUX2
+1
+regulator/regulator.7/power: invalid length
+enabled
+normal
+regulator/regulator.7/subsystem: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.8/device: invalid length
+regulator/regulator.8/display0-vcore_lcm: invalid length
+regulator/regulator.8/display0-vdds_dsi: invalid length
+1800000
+1800000
+1800000
+VPLL2
+2
+regulator/regulator.8/power: invalid length
+enabled
+normal
+regulator/regulator.8/subsystem: invalid length
+voltage
+*******************************************************************************************
+regulator/regulator.9/device: invalid length
+2850000
+2850000
+2850000
+VMMC2
+0
+regulator/regulator.9/omap3isp-camera_2V85: invalid length
+regulator/regulator.9/power: invalid length
+disabled
+off
+regulator/regulator.9/subsystem: invalid length
+voltage
+************************************************ fixed voltage reg.0 *******************************************
+# cat /sys/devices/platform/reg-fixed-voltage.0/regulator/regulator.0/*
+/sys/devices/platform/reg-fixed-voltage.0/regulator/regulator.0/2-002f-i2c2_2v8: invalid length
+/sys/devices/platform/reg-fixed-voltage.0/regulator/regulator.0/device: invalid length
+/sys/devices/platform/reg-fixed-voltage.0/regulator/regulator.0/ecompass_pm-ecompass: invalid length
+/sys/devices/platform/reg-fixed-voltage.0/regulator/regulator.0/gsensor_pm-gsensor: invalid length
+/sys/devices/platform/reg-fixed-voltage.0/regulator/regulator.0/light_pm-light: invalid length
+3300000
+GS_3V3
+6
+/sys/devices/platform/reg-fixed-voltage.0/regulator/regulator.0/power: invalid length
+enabled
+/sys/devices/platform/reg-fixed-voltage.0/regulator/regulator.0/subsystem: invalid length
+/sys/devices/platform/reg-fixed-voltage.0/regulator/regulator.0/tk_pm-tk: invalid length
+/sys/devices/platform/reg-fixed-voltage.0/regulator/regulator.0/touch_pm-touch: invalid length
+voltage
+************************************************ fixed voltage reg.1 *******************************************
+# cat /sys/devices/platform/reg-fixed-voltage.1/regulator/regulator.1/*
+/sys/devices/platform/reg-fixed-voltage.1/regulator/regulator.1/device: invalid length
+3300000
+/sys/devices/platform/reg-fixed-voltage.1/regulator/regulator.1/mmci-omap-hs.1-vmmc: invalid length
+eMMC_PWR
+1
+/sys/devices/platform/reg-fixed-voltage.1/regulator/regulator.1/power: invalid length
+enabled
+/sys/devices/platform/reg-fixed-voltage.1/regulator/regulator.1/subsystem: invalid length
+voltage
+
+*********************************** Active Device Mux ***********************************
+
+board           dss_data4       gpmc_d15        mcbsp2_dr       sdmmc2_cmd
+cam_d0          dss_data5       gpmc_d8         mcbsp2_dx       sdmmc2_dat0
+cam_d1          dss_data6       gpmc_d9         mcbsp2_fsx      sdmmc2_dat1
+cam_d10         dss_data7       gpmc_nbe0_cle   mcbsp3_clkx     sdmmc2_dat2
+cam_d11         dss_data8       gpmc_nbe1       mcbsp3_dr       sdmmc2_dat3
+cam_d2          dss_data9       gpmc_ncs1       mcbsp3_dx       sdmmc2_dat4
+cam_d3          dss_hsync       gpmc_ncs2       mcbsp3_fsx      sdmmc2_dat5
+cam_d4          dss_pclk        gpmc_ncs3       mcbsp4_clkx     sdmmc2_dat6
+cam_d5          dss_vsync       gpmc_ncs4       mcbsp4_dr       sdmmc2_dat7
+cam_d6          etk_clk         gpmc_ncs5       mcbsp4_dx       sdrc_cke0
+cam_d7          etk_ctl         gpmc_ncs6       mcbsp4_fsx      sdrc_cke1
+cam_d8          etk_d0          gpmc_ncs7       mcbsp_clks      sim_clk
+cam_d9          etk_d1          gpmc_nwp        mcspi1_clk      sim_io
+cam_fld         etk_d10         gpmc_wait1      mcspi1_cs0      sim_pwrctrl
+cam_hs          etk_d11         gpmc_wait2      mcspi1_cs1      sim_rst
+cam_pclk        etk_d12         gpmc_wait3      mcspi1_cs2      sys_boot0
+cam_strobe      etk_d13         hdq_sio         mcspi1_cs3      sys_boot1
+cam_vs          etk_d14         hsusb0_clk      mcspi1_simo     sys_boot2
+cam_wen         etk_d15         hsusb0_data0    mcspi1_somi     sys_boot3
+cam_xclka       etk_d2          hsusb0_data1    mcspi2_clk      sys_boot4
+cam_xclkb       etk_d3          hsusb0_data2    mcspi2_cs0      sys_boot5
+csi2_dx0        etk_d4          hsusb0_data3    mcspi2_cs1      sys_boot6
+csi2_dx1        etk_d5          hsusb0_data4    mcspi2_simo     sys_clkout1
+csi2_dy0        etk_d6          hsusb0_data5    mcspi2_somi     sys_clkout2
+csi2_dy1        etk_d7          hsusb0_data6    sad2d_mbusflag  sys_clkreq
+dss_acbias      etk_d8          hsusb0_data7    sad2d_mcad28    sys_nirq
+dss_data0       etk_d9          hsusb0_dir      sad2d_mcad29    sys_nreswarm
+dss_data1       gpmc_a1         hsusb0_nxt      sad2d_mcad32    sys_off_mode
+dss_data10      gpmc_a10        hsusb0_stp      sad2d_mcad33    uart1_cts
+dss_data11      gpmc_a11        i2c2_scl        sad2d_mcad34    uart1_rts
+dss_data12      gpmc_a2         i2c2_sda        sad2d_mcad35    uart1_rx
+dss_data13      gpmc_a3         i2c3_scl        sad2d_mcad36    uart1_tx
+dss_data14      gpmc_a4         i2c3_sda        sad2d_mread     uart2_cts
+dss_data15      gpmc_a5         i2c4_scl        sad2d_mwrite    uart2_rts
+dss_data16      gpmc_a6         i2c4_sda        sad2d_sbusflag  uart2_rx
+dss_data17      gpmc_a7         jtag_emu0       sad2d_sread     uart2_tx
+dss_data18      gpmc_a8         jtag_emu1       sad2d_swrite    uart3_cts_rctx
+dss_data19      gpmc_a9         mcbsp1_clkr     sdmmc1_clk      uart3_rts_sd
+dss_data2       gpmc_clk        mcbsp1_clkx     sdmmc1_cmd      uart3_rx_irrx
+dss_data20      gpmc_d10        mcbsp1_dr       sdmmc1_dat0     uart3_tx_irtx
+dss_data21      gpmc_d11        mcbsp1_dx       sdmmc1_dat1
+dss_data22      gpmc_d12        mcbsp1_fsr      sdmmc1_dat2
+dss_data23      gpmc_d13        mcbsp1_fsx      sdmmc1_dat3
+dss_data3       gpmc_d14        mcbsp2_clkx     sdmmc2_clk
+
+*******************************************************************************************
+; Physical memory map. All unmentioned ranges are reserved.
+; 00000000-3FFFFFFF GPMC
+; 40000000-4001BFFF Internal boot ROM
+; 40200000-4020FFFF Internal SRAM (64K)
+; 48000000-48FFFFFF L4-Core
+;(48300000-4833FFFF L4-Wakeup)
+; 49000000-490FFFFF L4-Per
+; 50000000-53FFFFFF SGX
+; 54000000-547FFFFF L4-Emu
+; 5C000000-5EFFFFFF IVA2.2
+; 68000000-68FFFFFF L3 Control registers
+; 6C000000-6CFFFFFF SMS registers
+; 6D000000-6DFFFFFF SDRC registers
+; 6E000000-6EFFFFFF GPMC registers
+; 70000000-7FFFFFFF SDRC-SMS virtual address space 0
+; 80000000-BFFFFFFF CS0/CS1-SDRAM
+; E0000000-FFFFFFFF SDRC-SMS virtual address space 1
+
+IntSRAM_Base       *        &40200000
+IntSRAM_Size       *        &00010000
+
+L4_Core            *        &48000000
+L4_Wakeup          *        &48300000
+L4_Per             *        &49000000
+SGX                *        &50000000
+L4_Emu             *        &54000000
+IVA22              *        &5C000000
+L3_Control         *        &68000000
+SMS_Regs           *        &6C000000
+SDRC_Regs          *        &6D000000
+GPMC_Regs          *        &6E000000
+SDRC_SMS_0         *        &70000000
+CS0_SDRAM          *        &80000000 ; CS1 SDRAM is at a configurable offset from here
+SDRC_SMS_1         *        &E0000000

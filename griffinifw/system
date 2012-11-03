@@ -1,0 +1,753 @@
+      0 @INNOCOMM@
+     28 lXbm
+    144 iboot
+    160 201108181716-4431
+   3221 Ufw Ufw
+   3265 Ufw Ufw
+   3309 Ufw@Ufw7@-
+   3733 Ufw Ufw
+   4456  Ufw
+   4564 @Ufw
+   4569 Ufw Ufwp@-
+   4768  Ufw]
+   4776 @Ufw
+   6336 Xr0H
+   6376 Xr0H
+   8889 Ufw)
+   8897 UfwB
+   8909 Ufwo
+   9157 Ufwj
+   9445 Ufw01
+   9771 H Ufw
+  10345 Ufw4
+  10357 Ufwb
+  10380  Ufw
+  10876 Xr0H,
+  17187 HH@1H
+  17201 @1Hp@-
+  17588 pr0H@L
+  19468 @m0Hpr0H
+  20339 :  R
+  20923 $  R
+  20935 J  R
+  22050 AT7@-
+  23025 Ufw!
+  24224  Ufw
+  24253 UfwQ
+  26057 `c  
+  52429 Pc P
+  64168 UUUU3333
+  69067 Hpr0HJ
+  94608 Pr0H
+  97681 <fBBf<
+  97726 <ffff<
+  97742 ?3?0000p
+  97761 ccccg
+  97838 fffffff
+  98017 88||
+  98034 ||88
+  98077 fff$
+  98142 8ll8v
+  98157 000`
+  98176 000000
+  98420 0000
+  98591 fff|ffff
+  98623 lffffffl
+  98639 fbhxh`bf
+  98655 fbhxh```
+  98735 fflxxlff
+  98751 ``````bf
+  98815 fff|````
+  98847 fff|lfff
+  98944 l|88|l
+  98958 ffff<
+  98990 <00000000<
+  99103 ``xlffff|
+  99167 620x0000x
+  99199 ``lvffff
+  99247 ``flxxlf
+  99298 ffffff
+  99330 fffff|``
+  99362 vf```
+  99394 00006
+  99458 l888l
+  99840 fbhxhbf
+ 100029 8ld`
+ 100034 ````
+ 100162 ffffff
+ 100190 <ll>
+ 100206 8ll8
+ 100444 6666666
+ 100452 66666666
+ 100468 66666666
+ 100492 66666
+ 100500 666666666666666666666666
+ 100532 6666666666666
+ 100556 6666666
+ 100716 66666667666666666666670?
+ 100753 ?076666666666666
+ 100788 666666666666670766666666
+ 100828 66666
+ 100836 66666666
+ 100860 6666666
+ 100900 666666666666666?
+ 100963 ?666666666666666
+ 100980 66666666
+ 101170 llllll
+ 101217 ffffff|``
+ 101248 <ffff<
+ 101283 llll
+ 101298 >ffff<
+ 101343 0``|```0
+ 101501 8ll8
+ 101565 l66666
+ 101600 ~~~~~~~
+ 101892 nand
+ 101900 nand_scan_tail
+ 101916 nand_select_chip
+ 101936 nand_get_flash_type
+ 101956 nand_fill_oob
+ 101972 nand_transfer_oob
+ 102008 e03f<ij??ji<f30ef30e?ji<<ij?e03f
+ 102056 i<?j0ef33fe0j?<i
+ 102104 j?<i3fe00ef3i<?jj?<i3fe00ef3i<?j
+ 102168 i<?j0ef33fe0j?<i
+ 102200 f30e?ji<<ij?e03fe03f<ij??ji<f30e
+ 102413 <fBBf<
+ 102458 <ffff<
+ 102474 ?3?0000p
+ 102493 ccccg
+ 102570 fffffff
+ 102749 88||
+ 102766 ||88
+ 102809 fff$
+ 102874 8ll8v
+ 102889 000`
+ 102908 000000
+ 103152 0000
+ 103323 fff|ffff
+ 103355 lffffffl
+ 103371 fbhxh`bf
+ 103387 fbhxh```
+ 103467 fflxxlff
+ 103483 ``````bf
+ 103547 fff|````
+ 103579 fff|lfff
+ 103676 l|88|l
+ 103690 ffff<
+ 103722 <00000000<
+ 103835 ``xlffff|
+ 103899 620x0000x
+ 103931 ``lvffff
+ 103979 ``flxxlf
+ 104030 ffffff
+ 104062 fffff|``
+ 104094 vf```
+ 104126 00006
+ 104190 l888l
+ 104572 fbhxhbf
+ 104761 8ld`
+ 104766 ````
+ 104894 ffffff
+ 104922 <ll>
+ 104938 8ll8
+ 105176 6666666
+ 105184 66666666
+ 105200 66666666
+ 105224 66666
+ 105232 666666666666666666666666
+ 105264 6666666666666
+ 105288 6666666
+ 105448 66666667666666666666670?
+ 105485 ?076666666666666
+ 105520 666666666666670766666666
+ 105560 66666
+ 105568 66666666
+ 105592 6666666
+ 105632 666666666666666?
+ 105695 ?666666666666666
+ 105712 66666666
+ 105902 llllll
+ 105949 ffffff|``
+ 105980 <ffff<
+ 106015 llll
+ 106030 >ffff<
+ 106075 0``|```0
+ 106233 8ll8
+ 106297 l66666
+ 106332 ~~~~~~~
+ 106517  n;^
+ 106709 Qkkbal
+ 106979 i]Wb
+ 107299 9a&g
+ 107308 MGiI
+ 107313 wn>Jj
+ 107379 #.zf
+ 107393 +o*7
+ 107411 -0123456789ABCDEF0123456789abcdef
+ 107450 Press keys to stop autoboot: %2d 
+ 107487 %2d 
+ 107492                             
+ 107521 Boot Reason: Charging       
+ 107550 Boot Reason: Download       
+ 107579 Boot Reason: Recovery       
+ 107608 Boot Reason: Alarm          
+ 107637 Boot Reason: AutoFlash      
+ 107666 Boot Reason: Normal         
+ 107695 Console: TPs UART           
+ 107724 Console: USB UART3          
+ 107753 Console: NA                 
+ 107782 Mode: Factory1              
+ 107811 Mode: Factory2              
+ 107840 Mode: Normal                
+ 107869 console=ttyS2,115200n8 androidboot.console=ttyS2
+ 107918  uart3=usb
+ 107929  androidboot.mode=
+ 107948 factory
+ 107956 factory2
+ 107965 normal
+ 107973 No NAND device available
+ 107999 erase
+ 108005 scrub
+ 108012 NAND %s: whole chip
+ 108034 NAND %s: offset 0x%lX, size 0x%lX
+ 108072 ERROR
+ 108078 Failed to Scrub NAND! (%d)  
+ 108107 OK to Scrub NAND!           
+ 108136 Failed to Clear! (%d)       
+ 108165 OK to Clear Bootloader!     
+ 108195 No MMC card found
+ 108215 ## Loading %s from SD Card...
+ 108247 ** Unable to read "%s" **
+ 108274 %s: 0x%lX (%ld) bytes read
+ 108303 %s: invalid image header
+ 108330 %s: invalid image data
+ 108355 NAND write: offset 0x%08llX, size 0x%X (%u)
+ 108400  0x%X (%u) bytes written: %s
+ 108430 ramdisk.ism
+ 108442 Failed to Flash rootfs(%d)  
+ 108471 OK to Flash rootfs (ramdisk)
+ 108500 kernel.ism
+ 108511 Failed to Flash Kernel(%d)  
+ 108540 OK to Flash Kernel!         
+ 108570 Power off the device!
+ 108594 poweroff
+ 108603 Continue to Boot            
+ 108632 Enable USB UART3            
+ 108661 Enable TPs UART             
+ 108690 Switch to Download Boot     
+ 108719 Switch to Recovery Boot     
+ 108748 Switch to Android Boot      
+ 108777 Abort to i-Boot Console     
+ 108806 Enable Factory Mode         
+ 108835 Flash Kernel (kernel.ism)   
+ 108864 Flash rootfs (ramdisk.ism)  
+ 108893 Clear Bootloader (for PCBA) 
+ 108922 Scrub & Clear entire NAND   
+ 108951 i-Boot 201108181716-4431
+ 108976 No                          
+ 109005 Yes                         
+ 109034 Please wait ......          
+ 109063 ALL DATA will be deleted!   
+ 109092 Are you sure?               
+ 109121 Bootloader will be deleted! 
+ 109150 Flash ramdisk.ism from SD.  
+ 109179 Flash kernel.ism from SD.   
+ 109208 0123456789ABCDEF
+ 109232 [POWER_DEBUG] STS_HW_CONDITIONS = 0x%02X, power button: %s, rowbits = 0x%02X, colbits = 0x%02X
+ 109328 <<COLD>> << DOWNLOAD >>
+ 109353 <<COLD>> << RECOVERY >>
+ 109378 <<COLD>> << NORMAL >>
+ 109401 <<COLD>> << ALARM >>
+ 109423 <<COLD>> << CHARGE >>
+ 109447 USB charger was unplugged!
+ 109476 << UART console >>
+ 109497 << UART3 via USB is enabled >>
+ 109530 << UART3 via USB is NOT enabled in i-Boot >> (0x%02X)
+ 109585 %08X%08X%08X
+ 109598 <<WARM>> << ALARM >>
+ 109620 <<WARM>> << CHARGE >>
+ 109643 <<WARM>> << NORMAL >>
+ 109666 <<WARM>>
+ 109675 USB charger was unplugged!
+ 109702 Please press the POWER button to boot!
+ 109742 <<WARM>> << DOWNLOAD >>
+ 109767 <<WARM>> << RECOVERY >>
+ 109792 <<WARM>> << AUTOFLASH >>
+ 109818 << UART3 console via USB >>
+ 109847 [POWER_DEBUG] Allowed to power on by the board check
+ 109901 [BCI_DEBUG] init USB LDO
+ 109927 [BCI_ERROR] MADC: unable to read register 0x%X
+ 109975 [BCI_DEBUG] disable USB OTG power
+ 110010 [BCI_DEBUG] disable USB PHY
+ 110039 [BCI_ERROR] [BCI] timeout for setting HSUSB PHY DPLL clock
+ 110099 [BCI_DEBUG] init USB PHY
+ 110125 [BCI_DEBUG] enable USB OTG power
+ 110159 [BCI_DEBUG] Enable USB charging
+ 110192 [BCI_DEBUG] Disable USB charging
+ 110226 [BCI_ERROR] MADC: unable to write register 0x%X
+ 110275 [BCI_ERROR] MADC SW1 conversion timeout!
+ 110317 [BCI_ERROR] MADC SW1 conversion failed!
+ 110358 No Charger
+ 110369 USB Charger
+ 110381 [BCI_DEBUG] <%s> Get main battery voltage: %d mV
+ 110431 [BCI_ERROR] MADC init failed!
+ 110462 [BCI_DEBUG] MADC SW1 conversion failed!
+ 110503 [BCI_ERROR] Not charging!
+ 110530 [BCI] VBUS voltage: %d mV
+ 110557 [BCI_DEBUG] VBUS voltage: %d mV
+ 110590 [BCI] Main battery (%d mV) is too low. Wait for charging...
+ 110651 [BCI] <Charging> Main battery: %d mV
+ 110689 [BCI_ERROR] <Not Charging> Main Battery (%d mV) is too low!
+ 110750 [BCI] <Not Charging> Main battery: %d mV
+ 110792 [BCI_ERROR] 
+ 110805 No Battery!
+ 110818 [BCI_ERROR] Backup battery charging error
+ 110861 [BCI_ERROR] <Not Charging> Main battery (%d mV) is too low!
+ 110922 [BCI_DEBUG] <Not Charging> Main battery: %d mV
+ 110970 dieid#
+ 110977 %08x%08x%08x%08x
+ 110994 Die ID #%s
+ 111008 i-Boot 201108181716-4431
+ 111035 ### ERROR ### Please RESET the board ###
+ 111077 baudrate
+ 111086 loadaddr
+ 111095 Read error at 0x%08llX (%u) from NAND
+ 111134 Invalid image header
+ 111156 Invalid physical address in image header
+ 111198 Invalid image <%ld>
+ 111219 Error: no NAND device available
+ 111252 Load logo error at 0x%08X from NAND
+ 111289 ibootargs
+ 111299 omap_vout_mod.video1_numbuffers=6 omap_vout_mod.vid1_static_vrfb_alloc=y
+ 111372  androidboot.reason=
+ 111393 charge
+ 111400 download
+ 111409 recovery
+ 111418 alarm
+ 111424 autoflash
+ 111434 sdcard
+ 111441  androidboot.bootloader=
+ 111466  androidboot.serialno=
+ 111489 Kernel command line: the buffer overflow occurred
+ 111541 Starting kernel ...
+ 111563 ## Loading Kernel from SD Card...
+ 111599 ** Unable to read "%s" from SD Card**
+ 111639 ### Failed to start kernel ###
+ 111672 ## Loading rootfs from NAND ...
+ 111705 Load initrd error at 0x%08lX from NAND
+ 111745 ## Loading Kernel from NAND ...
+ 111778 Load kernel error at 0x%08lX from NAND
+ 111818 ## Loading Firmware from SD Card...
+ 111855 griffin.ifw
+ 111868 ** Unable to read griffin.ifw from SD Card**
+ 111914           Firmware file is invalid/bad!
+ 111957           Press POWER key to shutdown.
+ 111997 =  INVALID SOFTWARE      =
+ 112025 ## Entering Recovery mode...
+ 112055 ===================================
+ 112092 Please download the firmware first!
+ 112129 pc : [<%08lx>]	   lr : [<%08lx>]
+ 112162 sp : %08lx  ip : %08lx	 fp : %08lx
+ 112198 r10: %08lx  r9 : %08lx	 r8 : %08lx
+ 112234 r7 : %08lx  r6 : %08lx	 r5 : %08lx  r4 : %08lx
+ 112282 r3 : %08lx  r2 : %08lx	 r1 : %08lx  r0 : %08lx
+ 112330 Flags: %c%c%c%c
+ 112346   IRQs %s  FIQs %s  Mode %s%s
+ 112377 Resetting CPU ...
+ 112396 fast interrupt request
+ 112420 not used
+ 112430 data abort
+ 112442 prefetch abort
+ 112458 software interrupt
+ 112478 undefined instruction
+ 112501 USER_26
+ 112509 FIQ_26
+ 112516 IRQ_26
+ 112523 SVC_26
+ 112530 UK4_26
+ 112537 UK5_26
+ 112544 UK6_26
+ 112551 UK7_26
+ 112558 UK8_26
+ 112565 UK9_26
+ 112572 UK10_26
+ 112580 UK11_26
+ 112588 UK12_26
+ 112596 UK13_26
+ 112604 UK14_26
+ 112612 UK15_26
+ 112620 USER_32
+ 112628 FIQ_32
+ 112635 IRQ_32
+ 112642 SVC_32
+ 112649 UK4_32
+ 112656 UK5_32
+ 112663 UK6_32
+ 112670 ABT_32
+ 112677 UK8_32
+ 112684 UK9_32
+ 112691 UK10_32
+ 112699 UND_32
+ 112706 UK12_32
+ 112714 UK13_32
+ 112722 UK14_32
+ 112730 SYS_32
+ 112737 resetting ...
+ 112752 Error reading FAT blocks
+ 112778 Invalid FAT entry (0x%08X)
+ 112806 [cluster_read] Error reading data (1)
+ 112845 [cluster_read] Error reading data (2)
+ 112884 [cluster_read] Error reading data (3)
+ 112923 Error reading cluster (1)
+ 112950 failed to read i-packer file (%ld)
+ 112986 Invalid '%s' image
+ 113006 Invalid entry (0x%08X) for i-signer image
+ 113049 Invalid i-signer image (%ld)
+ 113080 ** Can't read from device %d **
+ 113114 ** Bad MBR sector signature (0x%02X 0x%02X) from device %d **
+ 113182 ** Partition %d not valid on device %d **
+ 113225 FAT32   
+ 113234 FAT12   
+ 113243 FAT16   
+ 113252 Error: broken filesystem type
+ 113283 Error: reading rootdir block
+ 113313 No current device
+ 113332 '%s' not found
+ 113348 invalid file size (%u) for '%s'
+ 113381 failed to read file '%s' (%ld)
+ 113413 Invalid firmware file
+ 113436 ## Loading %s from SD Card ...
+ 113468 Invalid recovery image
+ 113492 Invalid kernel image
+ 113514 Invalid image file '%s'
+ 113539 Invalid entry (0x%08X) for image file '%s'
+ 113583 (%d:%d) Vendor: %s Prod.: %s Rev: %s
+ 113621 Model: %s Firm: %s Ser#: %s
+ 113650 Vendor: %s Rev: %s Prod: %s
+ 113679 device type DOC
+ 113696 device type unknown
+ 113717 Unhandled device type: %i
+ 113744             Type: 
+ 113763 Removable 
+ 113774 Hard Disk
+ 113784 CD ROM
+ 113791 Optical Device
+ 113806 Tape
+ 113811 # %02X #
+ 113820             Capacity: %ld.%ld MB = %ld.%ld GB (%ld x %ld)
+ 113879             Capacity: not available
+ 113917 Partition Map for 
+ 113940 SATA
+ 113945 SCSI
+ 113950 ATAPI
+ 113964 UNKNOWN
+ 113972  device %d  --   Partition Type: %s
+ 114014 ## Unknown partition table
+ 114046 ** Can't read partition table on %d:%d **
+ 114089 bad MBR sector signature 0x%02x%02x
+ 114126 hd%c%d
+ 114133 sd%c%d
+ 114140 usbd%c%d
+ 114149 docd%c%d
+ 114158 xx%c%d
+ 114165 U-Boot
+ 114172  Extd
+ 114178 %5d		%10d	%10d	%2x%s
+ 114200     1		         0	%10ld	%2x
+ 114229 Partition     Start Sector     Num Sectors     Type
+ 114282 ERROR: twl4030: invalid GPIO %d!
+ 114316 ERROR: twl4030_gpio: %d not requested!
+ 114356 i2c: bus busy timeout (%04X)
+ 114386 i2c: pin (%04X) timeout (%04x)
+ 114418 i2c_1.153: NACK err (%04X)
+ 114446 i2c_1.153: AL err (%04X)
+ 114472 i2c_1.153: XUDF timeout (%04X)
+ 114504 i2c: NACK err (%04X)
+ 114526 i2c: AL error (%04X)
+ 114548 i2c: Receive overrun (%04X)
+ 114577 i2c: Transmit underflow (%04X)
+ 114609 i2c: ARDY timeout (%04X)
+ 114635 ERR: timeout for I2C soft reset (1)!
+ 114673 ERR: timeout for I2C soft reset (2)!
+ 114711 ERR: I2C initializing second phase clock
+ 114753 ERR: I2C initializing clock
+ 114782 I2C read: addr len %d not supported
+ 114819 I2C read: address out of range
+ 114851 i2c_write: XRDY/XDR err2 (%04X)
+ 114884 i2c_write: ARDY err
+ 114905 i2c_write: XRDY/XDR err1 (%04X)
+ 114938 I2C write: I/O error
+ 114960 i2c_read: ARDY err1
+ 114981 i2c_read: XRDY/XDR err
+ 115005 i2c_read: ARDY err2
+ 115026 i2c_read: RRDY/RDR err (%04X)
+ 115057 I2C read: I/O error
+ 115078 KEYPAD<ERR>: Could not write TWL4030: reg 0x%02X, data 0x%02X
+ 115141 KEYPAD<ERR>: failed to init keypad
+ 115176 KEYPAD<ERR>: Could not read TWL4030: reg 0x%02X, bytes %d
+ 115235 nand_resume() called for a chip which is not in suspended state
+ 115300 No oob scheme defined for oobsize %d
+ 115338 No ECC functions supplied, Hardware ECC not possible
+ 115392 BUG: failure at %s:%d/%s()!
+ 115421 nand_base.c
+ 115433 BUG!
+ 115438 %d byte HW ECC not possible on %d byte page size, fallback to SW ECC
+ 115508 NAND_ECC_NONE selected by board driver. This is not recommended !!
+ 115576 Invalid NAND_ECC_MODE %d
+ 115602 Invalid ecc parameters
+ 115626 %s: second ID read did not match %02x,%02x against %02x,%02x
+ 115688 NAND device: Manufacturer ID: 0x%02x, Chip ID: 0x%02x (%s %s)
+ 115751 NAND bus width %d instead %d bit
+ 115785 No NAND device found!!!
+ 115810 nand_write_oob: Device is write protected
+ 115853 nand_write: Attempt to write not page aligned data
+ 115905 nand_do_write_ops: Device is write protected
+ 115951 nand_erase: attempt to erase a bad block at page 0x%08x
+ 116008 Timeout!
+ 116017 NAND: corrupt data at 0x%08llX
+ 116049 NAND: corrected data at 0x%08llX
+ 116083 create_bbt(): chipnr (%d) > available chips (%d)
+ 116133 Bad block table not found for chip %d
+ 116172 Bad block table found at page %d, version 0x%02X
+ 116222 nand_bbt: Error reading bad block table
+ 116263 nand_bbt: ECC error while reading bad block table
+ 116314 nand_read_bbt: Reserved block at 0x%012llx
+ 116358 nand_read_bbt: Bad block at 0x%012llx
+ 116397 No space left to write bad block table
+ 116437 nand_bbt: Error reading block for writing the bad block table
+ 116500 nand_bbt: ECC error while reading block for writing bad block table
+ 116569 Bad block table written to 0x%012llx, version 0x%02X
+ 116623 nand_bbt: Error while writing bad block table %d
+ 116673 nand_update_bbt: Out of memory
+ 116705 nand_scan_bbt: Out of memory
+ 116735 nand_bbt: Can't scan flash and build the RAM-based BBT
+ 116791 nand_bbt: Out of memory
+ 116816 Bad block table at page %d, version 0x%02X
+ 116860 NAND 16MiB 1,8V 8-bit
+ 116882 NAND 16MiB 3,3V 8-bit
+ 116904 NAND 16MiB 1,8V 16-bit
+ 116927 NAND 16MiB 3,3V 16-bit
+ 116950 NAND 32MiB 1,8V 8-bit
+ 116972 NAND 32MiB 3,3V 8-bit
+ 116994 NAND 32MiB 1,8V 16-bit
+ 117017 NAND 32MiB 3,3V 16-bit
+ 117040 NAND 64MiB 1,8V 8-bit
+ 117062 NAND 64MiB 3,3V 8-bit
+ 117084 NAND 64MiB 1,8V 16-bit
+ 117107 NAND 64MiB 3,3V 16-bit
+ 117130 NAND 128MiB 1,8V 8-bit
+ 117153 NAND 128MiB 3,3V 8-bit
+ 117176 NAND 128MiB 1,8V 16-bit
+ 117200 NAND 128MiB 3,3V 16-bit
+ 117224 NAND 256MiB 3,3V 8-bit
+ 117247 NAND 256MiB 1,8V 8-bit
+ 117270 NAND 256MiB 1,8V 16-bit
+ 117294 NAND 256MiB 3,3V 16-bit
+ 117318 NAND 512MiB 1,8V 8-bit
+ 117341 NAND 512MiB 3,3V 8-bit
+ 117364 NAND 512MiB 1,8V 16-bit
+ 117388 NAND 512MiB 3,3V 16-bit
+ 117412 NAND 1GiB 1,8V 8-bit
+ 117433 NAND 1GiB 3,3V 8-bit
+ 117454 NAND 1GiB 1,8V 16-bit
+ 117476 NAND 1GiB 3,3V 16-bit
+ 117498 NAND 2GiB 1,8V 8-bit
+ 117519 NAND 2GiB 3,3V 8-bit
+ 117540 NAND 2GiB 1,8V 16-bit
+ 117562 NAND 2GiB 3,3V 16-bit
+ 117584 Toshiba
+ 117592 Samsung
+ 117600 Fujitsu
+ 117608 National
+ 117617 Renesas
+ 117625 Numonyx
+ 117633 Hynix
+ 117639 Micron
+ 117650 Unknown
+ 117658 Attempt to read outside the flash area
+ 117698 NAND read from offset %llx failed %d
+ 117736 Skip bad block 0x%08llx (offset 0x%x)
+ 117775 Attempt to write non page aligned data
+ 117815 Attempt to write outside the flash area
+ 117856 YAFFS2 chunk size (%d) is not equal to NAND's page size (%d)
+ 117918 YAFFS2 spare size (%d) is not equal to NAND's oob size (%d)
+ 117979 Attempt to write non-page aligned offset
+ 118021 Attempt to write non-YAFFS2 aligned data
+ 118064 NAND write to offset %llx failed %d
+ 118101 Warning: Erase size 0x%08lx smaller than one erase block 0x%08x
+ 118166          Erasing 0x%08x instead
+ 118200 Skipping bad block at  0x%08llx                                          
+ 118276 %s: MTD get bad block failed: %d
+ 118311 %s: MTD Erase failure: %d
+ 118339 %s: MTD writeoob failure: %d
+ 118370 No memory for oob buffer
+ 118397 Erasing at 0x%llx -- %3d%% complete.
+ 118434  Clean OOB written at 0x%llx.
+ 118465 NAND: Unable to find NAND settings in GPMC Configuration - quitting
+ 118534 Error: Unrecognized Mode[%d]!
+ 118565 NAND: corrected single bit ECC error at offset: %d, bit: %d
+ 118626 NAND: bad ECC comparision (corrupted)
+ 118665 NAND: bad ECC comparision (>= 2 bits)
+ 118704 NAND: timeout in reset dev ready (state %d)
+ 118749 NAND: timeout in irq clear (state %d)
+ 118788 NAND: timeout in dev ready (state %d)
+ 118827 NAND: timeout in dev ready <status> (state: %d)!
+ 118877 twl4030: unable to get the power resources
+ 118921 twl4030: unable to unlock key
+ 118952 twl4030: failed to resotre resource[%d]
+ 118993 twl4030: unable to relock key (%d)
+ 119029 twl4030: unable to unlock IDCODE (%d)
+ 119068 twl4030: unable to read IDCODE (%d)
+ 119105 twl4030: unable to relock IDCODE (%d)
+ 119144 twl4030: I2C error %d while writing CFG_P123_TRANSITION
+ 119202 twl4030: I2C error %d while writing P1_SW_EVENTS
+ 119253 DISPC: timeout waiting for IRQ_FRAMEDONE flag!
+ 119301 DISPC: timeout waiting for GO flag<1>!
+ 119341 DISPC: timeout waiting for IRQ_VSYNC flag!
+ 119385 DSS: Failed to turn on LCD backlight!
+ 119424 DSS: Unsupported bits per pixel (%d)!
+ 119463 DSS: Failed to setup LCD!
+ 119490 DSS: soft reset failed! (0x%08X)
+ 119524 DSS: Failed to initialize DSS!
+ 119556 DISPC: soft reset failed! (0x%08X)
+ 119592 DSS: Failed to initialize DISPC!
+ 119626 DISPC: Cound not find perfect clock settins for the pixel clock, %lu KHz
+ 119700 DISPC: The possible pixel clocks are %lu KHz & %lu KHz
+ 119756 DISPC: The best pixel clock is %lu KHz
+ 119796 DISPC: Cound not find suitable clock settins for the pixel clock, %lu KHz
+ 119871 DSS: Failed to initialize LCD!
+ 119903 DSS: Failed to initialize DISPC plane!
+ 119943 DSS: Failed to enable LCD!
+ 119971 ## Starting application at 0x%08lX ...
+ 120011 ## Application terminated, rc = 0x%lX
+ 120053 reset
+ 120059 usage: fatload <interface> <dev[:part]> <addr> <filename> [bytes]
+ 120127 ** Invalid boot device **
+ 120155 ** Invalid boot device, use `dev[:part]' **
+ 120201 ** Unable to use %s %d:%d for fatload **
+ 120244 ** Unable to read "%s" from %s %d:%d **
+ 120286 0x%lX (%lu) bytes read
+ 120314 filesize
+ 120323 fatload
+ 120331 boot
+ 120336 init
+ 120341 mmc%d is available
+ 120361 mmc%d is unavailable
+ 120383 device
+ 120390 No MMC device available
+ 120415 mmc%d is current device
+ 120440 Device %d: 
+ 120452 %dx 
+ 120457 %s, sector size %u KiB
+ 120481 '%s' is not a number
+ 120503 device %d 
+ 120514 offset 0x%lx, size 0x%zx
+ 120540 No memory for page buffer
+ 120567 Error (%d) reading page %08lx
+ 120598 Page %08lx dump:
+ 120616 	%02x %02x %02x %02x %02x %02x %02x %02x  %02x %02x %02x %02x %02x %02x %02x %02x
+ 120699 OOB:
+ 120705 	%02x %02x %02x %02x %02x %02x %02x %02x
+ 120747 quiet
+ 120753 info
+ 120758 No such device
+ 120774 Device %d: %s
+ 120788 ... is now current device
+ 120815 dump
+ 120820 read
+ 120825 write
+ 120831 markbad
+ 120839 biterr
+ 120846 unlock
+ 120854 no devices available
+ 120877 Device %d bad blocks:
+ 120900   %08lx
+ 120909 clean
+ 120916 NAND %s: 
+ 120926 Warning: scrub option will erase all factory set bad blocks!
+ 120987          There is no reliable way to recover them.
+ 121038          Use this command only for testing purposes if you
+ 121097          are sure of what you are doing!
+ 121139 Really scrub this NAND flash? <y/N>
+ 121176 scrub aborted
+ 121191 .oob
+ 121196 .jffs2
+ 121209 .yaffs2
+ 121217 Unknown nand command suffix '%s'.
+ 121252 written
+ 121260  %zu bytes %s: %s
+ 121279 block 0x%08lx NOT marked as bad! ERROR %d
+ 121322 block 0x%08lx successfully marked as bad
+ 121364 nand
+ 121369 ## Error: illegal character '=' in variable name "%s"
+ 121424 stdin
+ 121430 stdout
+ 121437 stderr
+ 121444 Can't delete "%s"
+ 121463 ## Baudrate %d bps not supported
+ 121497 ## Switch baudrate to %d bps and press ENTER ...
+ 121547 ## Error: environment overflow, "%s" deleted
+ 121593 setenv
+ 121601 Environment size: %d/%ld bytes
+ 121633 ## Error: "%s" not defined
+ 121661 printenv
+ 121674 %s - %s
+ 121684 serial
+ 121691 ** Too many args (max. %d) **
+ 121722 ## Command too long!
+ 121744 Unknown command '%s'
+ 121769 Griffin# 
+ 121779 <INTERRUPT>
+ 121792 Invalid i-signer image (1)
+ 121820     Image Name:     %.*s
+ 121846     Image Version:  %.*s
+ 121872 Invalid i-signer image (2)
+ 121900     Verifying Data ... 
+ 121924 Bad Data
+ 121934 Invalid i-signer image (3)
+ 121966 @INNOCOMM@
+ 121977 Invalid i-signer image header (1)
+ 122012 Invalid i-signer image header (2)
+ 122047 Invalid i-signer image header (3)
+ 122082 #INNOCOMM#
+ 122093 Invalid i-packer firmware header (1)
+ 122131 Invalid i-packer firmware header (2)
+ 122169 Invalid i-packer firmware header (3)
+ 122207     Board Name:        %.*s
+ 122236     Firmware Version:  %.*s
+ 122265 [BCI_DEBUG] Enable 500mA charging current (GPIO_%d=0)
+ 122320 [BCI_DEBUG] Enable MAX charging current (GPIO_%d=0)
+ 122373 [BCI_DEBUG] Start charging (GPIO_%d=0)
+ 122413 [BCI_DEBUG] Stop charging (GPIO_%d=0)
+ 122452 [BCI_DEBUG] Charger status: charging (STAT1(%d)=%d STAT2(%d)=%d)
+ 122518 [BCI_DEBUG] Charger status: not charging (STAT1(%d)=%d STAT2(%d)=%d)
+ 122588 [BCI_DEBUG] Charger detect: %d
+ 122620 not found
+ 122630 [BCI] Charger: %s
+ 122649 <NULL>
+ 122656 (null)
+ 122663 ERROR : check_gpio: invalid GPIO %d
+ 122700 omap3-gpio unknown bank method %s %d
+ 122738 gpio.c
+ 122747 raise: Signal # %d caught
+ 125760 Bbt01tbB
+ 128604 ibootargs=omap_vout_mod.video1_numbuffers=6 omap_vout_mod.vid1_static_vrfb_alloc=y
+ 128687 bootcmd=iboot
+ 128701 bootdelay=4
+ 128713 baudrate=115200
+ 128729 iload=mmc init;fatload mmc 0 80300000 MLO;nand erase 0 80000;nand write 80300000 0 20000;nand write 80300000 20000 20000;nand write 80300000 40000 20000;nand write 80300000 60000 20000
+ 128914 iboot=mmc init;fatload mmc 0 80300000 iboot.ism;nand erase 80000 80000;nand write 80300000 80000 $(filesize);nand erase 100000 80000;nand write 80300000 100000 $(filesize);nand erase 180000 80000;nand write 80300000 180000 $(filesize)
+ 129149 kernel=mmc init;fatload mmc 0 0x80300000 kernel.ism;nand erase 0x011E0000 0x03C0000;nand write 0x80300000 0x011E0000 $(filesize)
+ 129278 ramdisk=mmc init;fatload mmc 0 0x80300000 ramdisk.ism;nand erase 0x00FE0000 0x0200000;nand write 0x80300000 0x00FE0000 $(filesize)
+ 129409 recovery=mmc init;fatload mmc 0 0x80300000 recovery.ism;nand erase 0x00C20000 0x03C0000;nand write 0x80300000 0x00C20000 $(filesize)
+ 129542 yaffs2system=mmc init;fatload mmc 0 0x80300000 system.img;nand erase 0x016E0000 0x10000000;nand write.yaffs2 0x80300000 0x016E0000 $(filesize)
+ 129685 yaffs2cache=nand erase 0x116E0000 0x003C0000
+ 129730 yaffs2data=nand erase 0x11AA0000
+ 129763 stdout=serial
+ 129777 stdin=serial
+ 129790 stderr=serial
+ 129816         
+ 130177 (((((
+ 130233 AAAAAA
+ 130265 BBBBBB

@@ -1,0 +1,42 @@
+GPIOs 0-31, gpio:
+ gpio-25  (gps_reset           ) out hi
+ gpio-29  (GPIOB_Q24120_DET    ) in  lo
+
+GPIOs 32-63, gpio:
+ gpio-34  (gps_on              ) out lo
+ gpio-35  (eMMC_PWR            ) out hi
+ gpio-37  (speaker_switch      ) out lo
+ gpio-38  (VBUS_HOST_EN        ) out lo
+ gpio-39  (GPIOB_Q24120_EN     ) out lo
+ gpio-53  (GPIOB_Q24120_STATE1 ) in  lo
+ gpio-54  (GPIOB_Q24120_STATE2 ) in  hi
+ gpio-55  (fpga-done           ) in  hi
+ gpio-56  (orientation_lock    ) in  hi irq-216 edge-both
+
+GPIOs 64-95, gpio:
+
+GPIOs 96-127, gpio:
+ gpio-98  (hynix253_reset_gpio ) out lo
+
+GPIOs 128-159, gpio:
+ gpio-152 (wifi_irq            ) in  hi irq-312 edge-falling wakeup
+ gpio-153 (INNOCOMM_TP_IRQ_GPIO) in  lo irq-313 edge-rising
+ gpio-154 (INNOCOMM_TK_IRQ_GPIO) in  hi irq-314 edge-rising
+ gpio-156 (kim                 ) out lo
+ gpio-157 (twl-msecure         ) out lo
+ gpio-158 (ext_mute            ) out lo
+ gpio-159 (headset-hook        ) in  hi irq-319 edge-both
+
+GPIOs 160-191, gpio:
+ gpio-162 (GPIOB_Q24120_ISET   ) out lo
+ gpio-163 (VBUS_HOST_FLT       ) in  hi
+ gpio-164 (eMMC-RST#           ) out hi
+ gpio-167 (hynix253_standby_gpi) out hi
+ gpio-177 (YAMAHA_YAS529_RST   ) out hi
+ gpio-182 (GS_3V3              ) out hi
+ gpio-186 (wifi_pmena          ) out hi
+
+GPIOs 192-209, platform/twl4030_gpio, twl4030, can sleep:
+ gpio-192 (mmc_cd              ) in  lo irq-384 edge-both
+ gpio-194 (h2w                 ) in  hi irq-386 edge-both
+ gpio-198 (PWMB-EN             ) out lo
